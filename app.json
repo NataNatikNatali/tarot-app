@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "tarot-app",
+    "slug": "tarot-app",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.natanatiknatali.tarotapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.natanatiknatali.tarotapp"
+    }
+  }
+}
